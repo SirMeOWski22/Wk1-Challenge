@@ -42,6 +42,10 @@ Open the webpage in a browser to view the implemented accessibility standards.
 Inspect the source code to verify the usage of semantic HTML elements, alt attributes for images, and sequential heading attributes.
 
 
+![Screenshot #1](https://github.com/SirMeOWski22/Wk1-Challenge/assets/160355750/21de360e-5c50-40da-9a74-e2b2550c2eb5)
+![Screenshot #2](https://github.com/SirMeOWski22/Wk1-Challenge/assets/160355750/4d86d620-0ff2-4692-9719-d8aea97d9892)
+
+
 
 
 **Contributing**
